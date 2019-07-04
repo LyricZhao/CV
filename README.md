@@ -80,6 +80,7 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 - Familiar with C, C++
 - Know Python, JavaScript, MATLAB, LaTeX, VHDL, Assembly
 - TOEFL: TODO
+- Ballroom Dancing
 
 ### Work Experiences
 
