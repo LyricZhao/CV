@@ -54,16 +54,31 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 ### Projects
 
 - **Noticable**
-  - Archived LBM (Lattice Boltzmann Method) on Sunway TaihuLight [link]
-  - Ported and optimized GROMACS (a molecular dynamics package designed for simulations of proteins, lipids and nucleic acids, GROningen Machine for Chemical Simulations) on Sunway TaihuLight [link]
-  - Analyzed and modeled the RGV (Rail Guided Vehicle) control system using reinforcement learning method [[link](https://github.com/LyricZhao/RGVControl-DQN-PrioritizedReplay)]
+  - Archived LBM(Lattice Boltzmann Method) on Sunway TaihuLight [link]
+  - Ported and optimized GROMACS(a molecular dynamics package designed for simulations of proteins, lipids and nucleic acids, GROningen Machine for Chemical Simulations) on Sunway TaihuLight [link]
+  - Analyzed and modeled the RGV(Rail Guided Vehicle) control system using reinforcement learning method [[link](https://github.com/LyricZhao/RGVControl-DQN-PrioritizedReplay)]
   - Designed a Bluetooth-controlled vehicle with WiFi Camera and OpenCV face detection [link]
   - Designed a simple operating system in Assembly and C, 5k LoC [link]
+  - A PyTorch implement of the ECCV paper Super-Identity Convolutional Neural Network for Face Hallucination [link]
+  - A full text search engine for Qingxin Times [link]
 - **For courses**
-  - TODO
+  - FEATURES, a massive multiplayer online game, 14k LoC, Software Engineering
+  - A simple distributed search engine in C++, Discrete Mathematics [link]
+  - A C++ implement of the paper Surface Simplification Using Quadric Error Metrics, Computer Graphics [link]
+  - SPPM realistic image renderer, Computer Graphics [link]
+  - Emotion analyzer with CNN/RNN, Introduction to AI [link]
+  - Four-in-a-row AI Player, Introduction to AI [link]
+  - Pinyin input, Introduction to AI [link]
+  - A simple search engine with Django, Programming Training [link]
+  - Happy Chinese chess, Programming Training [link]
+  - Microfluidic Chip Simulation UI, Programming Training [link]
+  - Voice code editor with Qt, OOP [link]
+  - Archieved and optimized 2D MST algorithm, OOP [link]
 
 ### Skills
 
 - Familiar with C, C++
 - Know Python, JavaScript, MATLAB, LaTeX, VHDL, Assembly
 - TOEFL: TODO
+
+### Work Experiences
