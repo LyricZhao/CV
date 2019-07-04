@@ -54,26 +54,26 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 ### Projects
 
 - **Noticable**
-  - Archived LBM(Lattice Boltzmann Method) on Sunway TaihuLight [link]
-  - Ported and optimized GROMACS(a molecular dynamics package designed for simulations of proteins, lipids and nucleic acids, GROningen Machine for Chemical Simulations) on Sunway TaihuLight [link]
+  - Archived LBM(Lattice Boltzmann Method) on Sunway TaihuLight [[link](https://github.com/LyricZhao/SWLBM)]
+  - Ported and optimized GROMACS(a molecular dynamics package designed for simulations of proteins, lipids and nucleic acids, GROningen Machine for Chemical Simulations) on Sunway TaihuLight [[link](https://github.com/LyricZhao/SW-Gromacs)]
   - Analyzed and modeled the RGV(Rail Guided Vehicle) control system using reinforcement learning method [[link](https://github.com/LyricZhao/RGVControl-DQN-PrioritizedReplay)]
-  - Designed a Bluetooth-controlled vehicle with WiFi Camera and OpenCV face detection [link]
-  - Designed a simple operating system in Assembly and C, 5k LoC [link]
-  - A PyTorch implement of the ECCV paper Super-Identity Convolutional Neural Network for Face Hallucination [link]
-  - A full text search engine for Qingxin Times [link]
+  - Designed a Bluetooth-controlled vehicle with WiFi Camera and OpenCV face detection [[link](https://github.com/LyricZhao/GZTank)]
+  - Designed a simple operating system in Assembly and C, 5k LoC [[link](https://github.com/LyricZhao/Basic-OS)]
+  - A PyTorch implement of the ECCV paper Super-Identity Convolutional Neural Network for Face Hallucination [[link](https://github.com/LyricZhao/ASC19-FaceSR-SICNN)]
+  - A full text search engine for Qingxin Times [[link](https://github.com/LyricZhao/QingxinSearch)]
 - **For courses**
   - FEATURES, a massive multiplayer online game, 14k LoC, Software Engineering
-  - A simple distributed search engine in C++, Discrete Mathematics [link]
-  - A C++ implement of the paper Surface Simplification Using Quadric Error Metrics, Computer Graphics [link]
-  - SPPM realistic image renderer, Computer Graphics [link]
-  - Emotion analyzer with CNN/RNN, Introduction to AI [link]
-  - Four-in-a-row AI Player, Introduction to AI [link]
-  - Pinyin input, Introduction to AI [link]
-  - A simple search engine with Django, Programming Training [link]
-  - Happy Chinese chess, Programming Training [link]
-  - Microfluidic Chip Simulation UI, Programming Training [link]
-  - Voice code editor with Qt, OOP [link]
-  - Archieved and optimized 2D MST algorithm, OOP [link]
+  - A simple distributed search engine in C++, Discrete Mathematics [[link](https://github.com/LyricZhao/GZ-Search)]
+  - A C++ implement of the paper Surface Simplification Using Quadric Error Metrics, Computer Graphics [[link](https://github.com/LyricZhao/Surface-Simplification)]
+  - SPPM realistic image renderer, Computer Graphics [[link](https://github.com/LyricZhao/BoArtist)]
+  - Emotion analyzer with CNN/RNN, Introduction to AI [[link](https://github.com/LyricZhao/EmotionAnalyzer)]
+  - Four-in-a-row AI Player, Introduction to AI [[link](https://github.com/LyricZhao/Fin1Row)]
+  - Pinyin input, Introduction to AI [[link](https://github.com/LyricZhao/LInput)]
+  - A simple search engine with Django, Programming Training [[link](https://github.com/LyricZhao/fakeGZS)]
+  - Happy Chinese chess, Programming Training [[link](https://github.com/LyricZhao/QtChineseChess)]
+  - Microfluidic Chip Simulation UI, Programming Training [[link](https://github.com/LyricZhao/MCS)]
+  - Voice code editor with Qt, OOP [[link](https://github.com/LyricZhao/SpeakCode)]
+  - Archieved and optimized 2D MST algorithm, OOP [[link](https://github.com/LyricZhao/YAO-MST2D)]
 
 ### Skills
 
@@ -82,3 +82,8 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 - TOEFL: TODO
 
 ### Work Experiences
+
+- **2018 - 2019**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
+- **2017 -** , Commissary in charge of publicity, Art Troupe of Tsinghua University
+- **2018 -** , Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
+
