@@ -8,7 +8,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Education
 
-- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.72/4.0
+- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.74/4.0 (Ranking 22%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Awards
