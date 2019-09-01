@@ -63,6 +63,7 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
   - A full text search engine for Qingxin Times [[link](https://github.com/LyricZhao/QingxinSearch)]
 - **For courses**
   - FEATURES, a massive multiplayer online game, 14k LoC, Software Engineering
+  - XinNews, an Android news client, Java Programming Training [[link](https://github.com/LyricZhao/XinNews)]
   - A simple distributed search engine in C++, Discrete Mathematics [[link](https://github.com/LyricZhao/GZ-Search)]
   - A C++ implement of the paper Surface Simplification Using Quadric Error Metrics, Computer Graphics [[link](https://github.com/LyricZhao/Surface-Simplification)]
   - SPPM realistic image renderer, Computer Graphics [[link](https://github.com/LyricZhao/BoArtist)]
