@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on July 4th, 2019*
+*Last updated on Sep 3rd, 2019*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -42,7 +42,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
   | Year |                            Awards                            |
   | :--: | :----------------------------------------------------------: |
-  | 2016 | Silver Medal in National Olympiad in Informatics, Mianyang, China |
+  | 2016 | Silver Medal in National Olympiad in Informatics, Sichuan, China |
   | 2016 | Silver Medal in Asia-Pacific Informatics Olympiad, Beijing, China |
   | 2016 | Silver Medal in IOI China Team Selection Competition, Beijing, China |
   | 2015 | First Prize in Nation Olympiad in Informatics in Provinces, Hebei, China |
@@ -79,13 +79,13 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 ### Skills
 
 - Familiar with C, C++
-- Know Python, JavaScript, MATLAB, LaTeX, VHDL, Assembly
+- Know Python, Java, JavaScript, MATLAB, LaTeX, VHDL, Assembly
 - TOEFL: TODO
 - Ballroom Dancing
 
 ### Work Experiences
 
-- **2018 - 2019**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
+- **2018 - **, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
 - **2017 -** , Commissary in charge of publicity, Art Troupe of Tsinghua University
 - **2018 -** , Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
 
