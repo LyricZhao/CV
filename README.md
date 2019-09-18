@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Sep 3rd, 2019*
+*Last updated on Sep 18th, 2019*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
