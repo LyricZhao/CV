@@ -30,6 +30,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
   | 2018 | First Prize of Beijing Area in China Undergraduate Mathematical Contest in Modeling, Beijing, China |
   | 2018 | First Prize in Hardware Design Contest, Department of Electronic Engineering, Tsinghua University, Beijing, China |
   | 2018 | First Prize in Software Design Contest, Department of Electronic Engineering, Tsinghua University, Beijing, China |
+  | 2017 | CCF Certified Software Professional Highest Score (Ranking 1/5947) |
 
 - Scholarships
 
@@ -79,7 +80,7 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 ### Skills
 
 - Familiar with C, C++
-- Know Python, Java, JavaScript, MATLAB, LaTeX, VHDL, Assembly
+- Know Python, Java, JavaScript, MATLAB, LaTeX, VHDL, Assembly, Verilog, HTML
 - TOEFL: TODO
 - Ballroom Dancing
 
