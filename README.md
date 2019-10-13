@@ -50,7 +50,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Publications
 
-*Student Cluster Competition 2018, Team Tsinghua University: Reproducing Performance of Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake Architecture*, Parallel Computing, 2019, as the second author
+Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, Shizhi Tang, Wentao Han, Jidong Zhai: *Student Cluster Competition 2018, Team Tsinghua University: Reproducing Performance of Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake Architecture*, *Parallel Computing 36* (2019)
 
 ### Projects
 
