@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Sep 18th, 2019*
+*Last updated on Oct 13th, 2019*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -8,7 +8,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Education
 
-- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.74/4.0 (Ranking 22%)
+- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 21%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Awards
@@ -50,7 +50,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Publications
 
-A paper submittied to a certain conference as 2nd author is being reviewed.
+*Student Cluster Competition 2018, Team Tsinghua University: Reproducing Performance of Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake Architecture*, Parallel Computing, 2019, as the second author
 
 ### Projects
 
@@ -81,7 +81,6 @@ A paper submittied to a certain conference as 2nd author is being reviewed.
 
 - Familiar with C, C++
 - Know Python, Java, JavaScript, MATLAB, LaTeX, VHDL, Assembly, Verilog, HTML
-- TOEFL: TODO
 - Ballroom Dancing
 
 ### Work Experiences
