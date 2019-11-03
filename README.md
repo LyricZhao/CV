@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Oct 13th, 2019*
+*Last updated on Nov 3rd, 2019*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -36,6 +36,8 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
   | Year |                            Awards                            |
   | :--: | :----------------------------------------------------------: |
+  | 2019 | Cai Xiong Scholarship for Science and Technology Innovation Excellence Award of Tsinghua University |
+  | 2019 | Science and Technology Innovation Excellence Award of Tsinghua University |
   | 2018 | Science and Technology Innovation Excellence Award of Tsinghua University |
   | 2018 |      Volunteer Excellence Award of Tsinghua University       |
 
