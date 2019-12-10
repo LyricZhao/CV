@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Nov 3rd, 2019*
+*Last updated on Dec 10th, 2019*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -8,7 +8,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Education
 
-- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 21%)
+- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 19%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Awards
@@ -17,6 +17,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
   | Year |                            Awards                            |
   | :--: | :----------------------------------------------------------: |
+  | 2019 | SC19 Student Cluster Competition Overall Winner, Denver, USA |
   | 2018 | SC18 Student Cluster Competition Overall Winner, Dallas, USA |
   | 2019 |              ASC19 Silver Prize, Dalian, China               |
   | 2018 | ISC-HPCAIAC Student Cluster Competition Overall Champion, Frankfurt, Germany |
@@ -37,6 +38,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
   | Year |                            Awards                            |
   | :--: | :----------------------------------------------------------: |
   | 2019 | Cai Xiong Scholarship for Science and Technology Innovation Excellence Award of Tsinghua University |
+  | 2019 |    SenseTime Scholarship (30 persons every year in China)    |
   | 2019 | Science and Technology Innovation Excellence Award of Tsinghua University |
   | 2018 | Science and Technology Innovation Excellence Award of Tsinghua University |
   | 2018 |      Volunteer Excellence Award of Tsinghua University       |
@@ -88,6 +90,6 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 ### Work Experiences
 
 - **2018 -** , Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
-- **2017 -** , Commissary in charge of publicity, Art Troupe of Tsinghua University
 - **2018 -** , Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
+- **2017 - 2019** , Commissary in charge of publicity, Art Troupe of Tsinghua University
 
