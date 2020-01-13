@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Dec 10th, 2019*
+*Last updated on Jan 13th, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -67,6 +67,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - A PyTorch implement of the ECCV paper Super-Identity Convolutional Neural Network for Face Hallucination [[link](https://github.com/LyricZhao/ASC19-FaceSR-SICNN)]
   - A full text search engine for Qingxin Times [[link](https://github.com/LyricZhao/QingxinSearch)]
 - **For courses**
+  - ThinRouter, MIPS32 CPU + router with RIP implemented in HDL, Computer Organizations & Computer Networks [[link](https://github.com/LyricZhao/cod19grp4)]
   - FEATURES, a massive multiplayer online game, 14k LoC, Software Engineering
   - XinNews, an Android news client, Java Programming Training [[link](https://github.com/LyricZhao/XinNews)]
   - A simple distributed search engine in C++, Discrete Mathematics [[link](https://github.com/LyricZhao/GZ-Search)]
