@@ -1,6 +1,6 @@
 ## Chenggang Zhao (赵成钢)
 
-*Last updated on Jan 13th, 2020*
+*Last updated on Feb 12th, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -8,7 +8,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Education
 
-- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 19%)
+- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.73/4.0 (Ranking 22%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Awards
