@@ -5,7 +5,6 @@
 `formal-en.pdf` 和 `formal-cn.pdf` 分别是比较正式的英文、中文版简历。
 
 
-
 ## Chenggang Zhao (赵成钢)
 
 *Informal English version, last updated on May 1st, 2020*
@@ -41,13 +40,12 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 - **2020 -**, Research intern at SenseTime Technology
   - Will start in 2020.06
   - Deep learning frame *SenseParrots* development and research
-
-- **2018 - 2020** , Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
+- **2018 - 2020**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
   - Student festival origization: *三十六计* (2018) and *InterNine* (2019)
   - Director of MV *InterNine*: [[Video](https://www.bilibili.com/video/BV1qJ411C7vD)]
-- **2018 - 2020** , Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
+- **2018 - 2020**, Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
   - Taken part in 6 student cluster competitions (4 championships)
-- **2017 - 2019** , Commissary in charge of publicity, Art Troupe of Tsinghua University
+- **2017 - 2019**, Commissary in charge of publicity, Art Troupe of Tsinghua University
   - Online ticket website building and maintaining
   - Promotional video making
 
@@ -95,7 +93,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - Code: [[Link](https://github.com/LyricZhao/Basic-OS)]
   - CCF Certified Software Professional **Highest Score (Ranking 1/5947)**, China, 2017
 - Olympiad in Informatics
-- National Olympiad in Informatics, **Silver Medal,** Sichuan, China, 2016
+  - National Olympiad in Informatics, **Silver Medal,** Sichuan, China, 2016
   - Asia-Pacific Informatics Olympiad, **Silver Medal**, Beijing, China, 2016
   -  IOI China Team Selection Competition, **Silver Medal**, Beijing, China, 2016
   -  Nation Olympiad in Informatics in Provinces, **First Prize**, Hebei, China, 2015
