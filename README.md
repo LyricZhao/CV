@@ -1,3 +1,11 @@
+## README
+
+`formal-en.pdf` and `formal-cn.pdf` are formal English/Chinese versions of my CV.
+
+`formal-en.pdf` 和 `formal-cn.pdf` 分别是比较正式的英文、中文版简历。
+
+
+
 ## Chenggang Zhao (赵成钢)
 
 *Informal English version, last updated on May 1st, 2020*
@@ -30,7 +38,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 
 ### Work Experiences
 
-- **2020 - **, Research intern at SenseTime Technology
+- **2020 -**, Research intern at SenseTime Technology
   - Will start in 2020.06
   - Deep learning frame *SenseParrots* development and research
 
@@ -67,7 +75,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - News: [[Link](https://news.tsinghua.edu.cn/info/1003/20521.htm)]
   - ASC18 Student Cluster Competition **Gold Prize**, Nanchang, China, 2018
     - Off-field team member
-    - Implement an 8x optimization for RELION (REgularised LIkelihood OptimisatioN)
+    - Implemented an 8x optimization for RELION (REgularised LIkelihood OptimisatioN)
     - Code: [[Link](https://github.com/jiguanglizipao/relion)]
     - News: [[Link](https://news.tsinghua.edu.cn/info/1003/20814.htm)]
 - Others
@@ -77,13 +85,13 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - China Undergraduate Mathematical Contest in Modeling, **First Prize** in Beijing Area, Beijing, China, 2018
     - Analyzed and modeled the RGV (Rail Guided Vehicle) control system using reinforcement learning method
     - Code: [[Link](https://github.com/LyricZhao/RGVControl-DQN-PrioritizedReplay)]
-    - Archived LBM (Lattice Boltzmann Method) on Sunway TaihuLigh
+    - Archived LBM (Lattice Boltzmann Method) on Sunway TaihuLight
     - Code: [[Link](https://github.com/LyricZhao/SWLBM)]
   - Hardware Design Contest, Department of Electronic Engineering (Tsinghua University), **First Prize**, Beijing, China, 2018
     - Designed a Bluetooth-controlled vehicle with WiFi Camera and OpenCV face detection
     - Code: [[Link](https://github.com/LyricZhao/GZTank)]
   - Software Design Contest, Department of Electronic Engineering (Tsinghua University), **First Prize**, Beijing, China, 2018
-    - Designed a toy operating system in Assembly and C
+    - Designed a toy operating system
     - Code: [[Link](https://github.com/LyricZhao/Basic-OS)]
   - CCF Certified Software Professional **Highest Score (Ranking 1/5947)**, China, 2017
 - Olympiad in Informatics
