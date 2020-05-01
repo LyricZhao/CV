@@ -41,7 +41,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - Will start in 2020.06
   - Deep learning frame *SenseParrots* development and research
 - **2018 - 2020**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
-  - Student festival origization: *三十六计* (2018) and *InterNine* (2019)
+  - Student festival organization: *三十六计* (2018) and *InterNine* (2019)
   - Director of MV *InterNine*: [[Video](https://www.bilibili.com/video/BV1qJ411C7vD)]
 - **2018 - 2020**, Member of Student Supercomputing Team, Department of Computer Science and Technology, Tsinghua University
   - Taken part in 6 student cluster competitions (4 championships)
@@ -59,10 +59,10 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - Volunteer Excellence Award of Tsinghua University, 2018
 - Student cluster competitions
   - SC19 Student Cluster Competition **Overall Winner**, Denver, USA, 2019
-    - Reproduced the performance of computing normal modes with a polynomial filtering eigensolver
+    - Reproduced and analyzed the performance of computing normal modes with a polynomial filtering eigensolver
     - News: [[Link](https://news.tsinghua.edu.cn/info/1002/16347.htm)]
   - SC18 Student Cluster Competition **Overall Winner**, Dallas, USA, 2018
-    - Reproduced performance of Multi-Physics Simulations of the tsunamigenic 2004 Sumatra megathrust earthquake on the Intel skylake architecture
+    - Reproduced and analyzed performance of Multi-Physics Simulations of the tsunamigenic 2004 Sumatra megathrust earthquake
     - Related publication: [[Link](https://www.sciencedirect.com/science/article/pii/S0167819119301619)]
     - News: [[Link](https://news.tsinghua.edu.cn/info/1002/16606.htm)]
   - ASC19 Student Cluster Competition **Silver Prize**, Dalian, China, 2019
@@ -115,7 +115,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - For course *Software Engineering*
   - BoArtist
     - A SPPM realistic image renderer
-    - For course *Computer Graphics*
+    - For course *Fundamentals of Computer Graphics*
     - Code: [[Link](https://github.com/LyricZhao/BoArtist)]
 - **For courses**
   - XinNews
@@ -128,7 +128,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - Code: [[Link](https://github.com/LyricZhao/GZ-Search)]
   - Surface-Simplification
     - An implementation the paper *Surface Simplification Using Quadric Error Metrics*
-    - For course *Computer Graphics*
+    - For course *Fundamentals of Computer Graphics*
     - Code: [[Link](https://github.com/LyricZhao/Surface-Simplification)]
   - 4over6-VPN-Client
     - An IPv4-over-IPv6 VPN client
@@ -164,11 +164,11 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - Code: [[Link](https://github.com/LyricZhao/MCS)]
   - SpeakCode
     - Voice code editor implemented in Qt
-    - For course *OOP Program Design*
+    - For course *Foundation of Object-Oriented Programming*
     - Code: [[Link](https://github.com/LyricZhao/SpeakCode)]
   - YAO-MST2D
     - An implementation for Andrew Chi-Chih Yao's 2D MST algorithm
-    - For course *OOP Program Design*
+    - For course *Foundation of Object-Oriented Programming*
     - Code: [[Link](https://github.com/LyricZhao/YAO-MST2D)]
 - **Others**
   - THU-Bell
