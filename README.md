@@ -118,6 +118,10 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - For course *Fundamentals of Computer Graphics*
     - Code: [[Link](https://github.com/LyricZhao/BoArtist)]
 - **For courses**
+  - ElasticJury
+    - A judicial case search engine in Golang
+    - For course *Search Engine Technologies*
+    - Code: [[Link](https://github.com/LyricZhao/ElasticJury)]
   - XinNews
     - An Android news client
     - For course *Java Programming Training*
