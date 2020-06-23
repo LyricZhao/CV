@@ -38,8 +38,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 ### Work Experiences
 
 - **2020 -**, Research intern at SenseTime Technology
-  - Will start in 2020.06
-  - Deep learning frame *SenseParrots* development and research
+  - Deep learning framework *SenseParrots* development and research
 - **2018 - 2020**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
   - Student festival organization: *三十六计* (2018) and *InterNine* (2019)
   - Director of MV *InterNine*: [[Video](https://www.bilibili.com/video/BV1qJ411C7vD)]
