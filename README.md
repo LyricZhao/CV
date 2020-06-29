@@ -7,7 +7,7 @@
 
 ## Chenggang Zhao (赵成钢)
 
-*Informal English version, last updated on May 1st, 2020*
+*Informal English version, last updated on Jun 23rd, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -100,11 +100,12 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 ### All Projects
 
 - **Noticable**
-  - rCore-Tutorial (v2)
+  - rCore-Tutorial (v3)
     - Working in progress
     - A tutorial for writing an OS in Rust
     - For course *Operating Systems*
-    - Code: [[Link](https://os20-rcore-tutorial.github.io/rCore-Tutorial-deploy)]
+    - Code: [[Link](https://github.com/rcore-os/rCore-Tutorial/)]
+    - Deployment: [[Link](https://rcore-os.github.io/rCore-Tutorial-deploy/)]
   - ThinRouter
     - MIPS32 CPU + router with RIP implemented in HDL
     - For course *Computer Organizations & Computer Networks*
