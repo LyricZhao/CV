@@ -7,7 +7,7 @@
 
 ## Chenggang Zhao (赵成钢)
 
-*Informal English version, last updated on Jun 23rd, 2020*
+*Informal English version, last updated on Aug 30rd, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -15,7 +15,8 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Education
 
-- **2017 -** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.73/4.0 (Ranking 22%)
+- **2021 - 2025 (expected)**, Ph.D (advised by Professor [Mingyu Gao](http://people.iiis.tsinghua.edu.cn/~gaomy/index.html)), Institute for Interdisciplinary Information Sciences, Tsinghua University
+- **2017 - 2021 (expected)** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.73/4.0 (Ranking 22%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Skills
@@ -23,7 +24,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 - Programming languages
   - C, C++, Python, Rust, Go, Java, JavaScript, MATLAB, LaTeX, VHDL, Assembly, Verilog
 - Ballroom Dancing
-  - Waltz, Tango, Quick Step, Fox Step, Rumba, Cha-cha, Jive
+  - Waltz, Viennese Waltz, Tango, Quick Step, Fox Step, Rumba, Cha-cha, Jive
 
 ### Reasearch Interests
 
@@ -38,7 +39,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 ### Work Experiences
 
 - **2020 -**, Research intern at SenseTime Technology
-  - Deep learning framework *SenseParrots* development and research
+  - Deep learning framework *Parrots* development and research
 - **2018 - 2020**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
   - Student festival organization: *三十六计* (2018) and *InterNine* (2019)
   - Director of MV *InterNine*: [[Video](https://www.bilibili.com/video/BV1qJ411C7vD)]
