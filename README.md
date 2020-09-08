@@ -77,7 +77,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
     - Code: [[Link](https://github.com/jiguanglizipao/relion)]
     - News: [[Link](https://news.tsinghua.edu.cn/info/1003/20814.htm)]
 - Others
-  -  China Parallel Application Challenge on Domestic CPU, **First Prize** in North China Area, Wuxi, China, 2018
+  - China Parallel Application Challenge on Domestic CPU, **First Prize** in North China Area, Wuxi, China, 2018
     - Ported and optimized GROMACS (a molecular dynamics package designed for simulations of proteins, lipids and nucleic acids, GROningen Machine for Chemical Simulations) on Sunway TaihuLight
     - Code:  [[Link](https://github.com/LyricZhao/SW-Gromacs)]
   - China Undergraduate Mathematical Contest in Modeling, **First Prize** in Beijing Area, Beijing, China, 2018
