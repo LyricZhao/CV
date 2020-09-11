@@ -7,7 +7,7 @@
 
 ## Chenggang Zhao (赵成钢)
 
-*Informal English version, last updated on Aug 30rd, 2020*
+*Informal English version, last updated on Sep 11th, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
@@ -51,7 +51,8 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
 
 ### Awards
 
-- Scholarships
+- Scholarships and Awards
+  - CCF Elite Collegiate Award, 2020
   - Cai Xiong Scholarship for Science and Technology Innovation Excellence Award of Tsinghua University, 2019
   - SenseTime Scholarship (30 persons every year in China), 2019
   - Science and Technology Innovation Excellence Award of Tsinghua University, 2019
