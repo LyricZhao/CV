@@ -56,7 +56,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - Cai Xiong Scholarship for Science and Technology Innovation Excellence Award of Tsinghua University, 2019
   - SenseTime Scholarship (30 persons every year in China), 2019
   - Science and Technology Innovation Excellence Award of Tsinghua University, 2019
-  - Science and Technology Innovation Excellence Award of Tsinghua University, 2019
+  - Science and Technology Innovation Excellence Award of Tsinghua University, 2018
   - Volunteer Excellence Award of Tsinghua University, 2018
 - Student cluster competitions
   - SC19 Student Cluster Competition **Overall Winner**, Denver, USA, 2019
