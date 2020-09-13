@@ -34,6 +34,8 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 
 ### Publications
 
+{Chen Zhang, **Chenggang Zhao**}, Jiaao He, Shengqi Chen, Liyan Zheng, Kezhao Huang, Wentao Han, Jidong Zhai: *Critique of “Computing Planetary Interior Normal Modes with a Highly Parallel Polynomial Filtering Eigensolver” by SCC Team from Tsinghua University*, to be shown in *IEEE Transactions on Parallel and Distributed Systems*
+
 Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, Shizhi Tang, Wentao Han, Jidong Zhai: *Student Cluster Competition 2018, Team Tsinghua University: Reproducing Performance of Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake Architecture*, *Parallel Computing 36* (2019) [[Link](https://www.sciencedirect.com/science/article/pii/S0167819119301619)]
 
 ### Work Experiences
