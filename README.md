@@ -16,7 +16,7 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 ### Education
 
 - **2021 - 2025 (expected)**, Ph.D (advised by Professor [Mingyu Gao](http://people.iiis.tsinghua.edu.cn/~gaomy/index.html)), Institute for Interdisciplinary Information Sciences, Tsinghua University
-- **2017 - 2021 (expected)** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.73/4.0 (Ranking 22%)
+- **2017 - 2021 (expected)** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 17%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
 
 ### Skills
