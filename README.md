@@ -7,17 +7,19 @@
 
 ## Chenggang Zhao (赵成钢)
 
-*Informal English version, last updated on Sep 11th, 2020*
+*Informal English version, last updated on Dec 7th, 2020*
 
 Undergraduate, Department of Computer Science and Technology, Tsinghua University, China
 
 Email: zhaocg17@mails.tsinghua.edu.cn
+
 
 ### Education
 
 - **2021 - 2025 (expected)**, Ph.D (advised by Professor [Mingyu Gao](http://people.iiis.tsinghua.edu.cn/~gaomy/index.html)), Institute for Interdisciplinary Information Sciences, Tsinghua University
 - **2017 - 2021 (expected)** , Undergraduate, Department of Computer Science and Technology, Tsinghua University, China; GPA: 3.75/4.0 (Ranking 17%)
 - **2014 - 2017**, Hengshui High School, Hebei, China
+
 
 ### Skills
 
@@ -26,22 +28,28 @@ Email: zhaocg17@mails.tsinghua.edu.cn
 - Ballroom Dancing
   - Waltz, Viennese Waltz, Tango, Quick Step, Fox Step, Rumba, Cha-cha, Jive
 
-### Reasearch Interests
 
-- Computer Systems and Architecture
+### Research Interests
+
+- Computer Systems and Architectures
 - High Performance Computing
-- Deep Learning Framework
+- Deep Learning Systems
+
 
 ### Publications
 
-{Chen Zhang, **Chenggang Zhao**}, Jiaao He, Shengqi Chen, Liyan Zheng, Kezhao Huang, Wentao Han, Jidong Zhai: *Critique of “Computing Planetary Interior Normal Modes with a Highly Parallel Polynomial Filtering Eigensolver” by SCC Team from Tsinghua University*, to be shown in *IEEE Transactions on Parallel and Distributed Systems*
+Chen Zhang\*, **Chenggang Zhao\***, Jiaao He, Shengqi Chen, Liyan Zheng, Kezhao Huang, Wentao Han, Jidong Zhai: *Critique of “Computing Planetary Interior Normal Modes with a Highly Parallel Polynomial Filtering Eigensolver” by SCC Team from Tsinghua University*, to be shown in *IEEE Transactions on Parallel and Distributed Systems*
 
 Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, Shizhi Tang, Wentao Han, Jidong Zhai: *Student Cluster Competition 2018, Team Tsinghua University: Reproducing Performance of Multi-Physics Simulations of the Tsunamigenic 2004 Sumatra Megathrust Earthquake on the Intel Skylake Architecture*, *Parallel Computing 36* (2019) [[Link](https://www.sciencedirect.com/science/article/pii/S0167819119301619)]
 
+
 ### Work Experiences
 
-- **2020 -**, Research intern at SenseTime Technology
-  - Deep learning framework *Parrots* development and research
+- **2020**, Research intern at SenseTime Technology
+  - Deep learning framework *SenseParrots* development and research
+    - Memory visualization
+    - Optimization for memory allocator
+    - Sublinear memory optimization for training
 - **2018 - 2020**, Member of the Student Union of the Department of Computer Science and Technology, Tsinghua University
   - Student festival organization: *三十六计* (2018) and *InterNine* (2019)
   - Director of MV *InterNine*: [[Video](https://www.bilibili.com/video/BV1qJ411C7vD)]
@@ -51,16 +59,20 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - Online ticket website building and maintaining
   - Promotional video making
 
+
 ### Awards
 
 - Scholarships and Awards
-  - CCF Elite Collegiate Award, 2020
-  - Cai Xiong Scholarship for Science and Technology Innovation Excellence Award of Tsinghua University, 2019
-  - SenseTime Scholarship (30 persons every year in China), 2019
-  - Science and Technology Innovation Excellence Award of Tsinghua University, 2019
-  - Science and Technology Innovation Excellence Award of Tsinghua University, 2018
-  - Volunteer Excellence Award of Tsinghua University, 2018
-- Student cluster competitions
+  - Zhong Shimo Scholarship, Dept. of Computer Science and Technology, Tsinghua University, 2020 (the highest honor in Dept. of CST)
+  - Comprehensive Outstanding Scholarship, Dept. of Computer Science and Technology, Tsinghua University, 2020
+  - CCF Elite Collegiate Award, China Computer Foundation, 2020
+  - Personal of the Year, Tsinghua University (as a member of Tsinghua University Student Cluster Competition Team, 10 students/groups in total)
+  - Cai Xiong Scholarship, Tsinghua University, 2019 (the highest honor for undergraduates for science and technology innovation excellence in Tsinghua)
+  - SenseTime Scholarship, SenseTime Inc., 2019 (30 students in China every year)
+  - Science and Technology Innovation Excellence Award, Tsinghua University, 2019
+  - Science and Technology Innovation Excellence Award, Tsinghua University, 2018
+  - Volunteer Excellence Award, Tsinghua University, 2018
+- Student Cluster Competitions
   - SC19 Student Cluster Competition **Overall Winner**, Denver, USA, 2019
     - Reproduced and analyzed the performance of computing normal modes with a polynomial filtering eigensolver
     - News: [[Link](https://news.tsinghua.edu.cn/info/1002/16347.htm)]
@@ -100,6 +112,7 @@ Jiaao He, **Chenggang Zhao**, Jiping Yu, Xinjian Yu, Liyan Zheng, Chenyao Lou, S
   - Asia-Pacific Informatics Olympiad, **Silver Medal**, Beijing, China, 2016
   -  IOI China Team Selection Competition, **Silver Medal**, Beijing, China, 2016
   -  Nation Olympiad in Informatics in Provinces, **First Prize**, Hebei, China, 2015
+
 
 ### All Projects
 
